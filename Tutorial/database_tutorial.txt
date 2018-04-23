@@ -1,0 +1,3 @@
+Password: slide conceptual_design: 1.234w
+slide data_model_mapping: 5665w
+slide normalization: FD&&N
